@@ -3,7 +3,7 @@ I am Bello Soliu, a Resourceful Web Developer.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on mern stack projects
+- 🔭 I’m currently working on MEAN stack projects
 - 🌱 I’m currently learning Redux, .Net Framework and AWS Services.
 - 👯 I’m willing to collaborate on open source projects
 - 💬 Ask me about React, Node and Databases.
