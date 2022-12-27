@@ -1,5 +1,5 @@
 Hi there 👋!
-I am Bello Soliu, a Resourceful Web Developer.
+I am Bello Soliu, a Resourceful Software Developer.
 
 Here are some ideas to get you started:
 
