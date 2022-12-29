@@ -1,7 +1,7 @@
 Hi there 👋!
 I am Bello Soliu, a Resourceful Software Developer.
 
-Here are some ideas to get you started:
+About Me:
 
 - 🔭 I’m currently working on MEAN stack and C# projects
 - 🌱 I’m currently learning AWS Services.
