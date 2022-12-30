@@ -1,4 +1,4 @@
-Hi there ! 👋
+Hi there👋
 I am Bello Soliu, a resourceful Software Developer.
 
 About Me:
