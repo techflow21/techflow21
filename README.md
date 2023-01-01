@@ -1,5 +1,5 @@
 Hi there 👋!
-I am Bello Soliu, a passionate and Software Developer.
+I am Bello Soliu, a passionate and resourceful Software Developer.
 
 About Me:
 
