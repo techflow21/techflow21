@@ -3,7 +3,7 @@ I am Bello Soliu, a passionate and resourceful Software Developer.
 
 About Me:
 
-- 🔭 I’m currently working on Angular,WPF and ASP.Net projects
+- 🔭 I’m currently working on Ang,WPF and ASP.Net projects
 - 🌱 I’m currently learning Amazon Web Services(AWS) Services.
 - 👯 I’m willing to collaborate on open source projects
 - 💬 Ask me about React, Angular, Node, C#, ASP.Net and Databases (MySQL, MongoDB and Microsoft Server SQL).
