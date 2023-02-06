@@ -1,7 +1,7 @@
 Hi there 👋!
 I am Bello Soliu, a passionate and resourceful Software Engineer.
 
-About Me:
+<h3 align="left">About Me:</h3>
 
 - 🔭 I’m currently working on Angular and ASP.Net projects.
 - 🌱 I’m currently learning Amazon Web Services(AWS) Services.
