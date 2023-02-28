@@ -1,6 +1,7 @@
 <h2>Hi there 👋!</h2>
 
 I am Bello Soliu, a passionate and resourceful Software Engineer.
+
 <h3 align="left">About Me:</h3>
 
 - 🔭 I’m currently working on Angular and .Net projects.
