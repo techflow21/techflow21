@@ -1,4 +1,4 @@
-<h2>Hi there 👋!</h2>
+<h3>Hi there 👋!</h3>
 
 I am Bello Soliu, a passionate and resourceful Software Engineer.
 
