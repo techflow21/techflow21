@@ -2,10 +2,10 @@
 I am Bello Soliu, a passionate and resourceful Software Engineer.
 
 <h3 align="left">About Me:</h3>
-- 🔭 I’m currently working on Angular and .Net projects.
+- 🔭 I’m currently working on Angular and .NET projects.
 - 🌱 I’m currently learning Amazon Web Services(AWS) Services.
 - 👯 I’m willing to collaborate on open source projects
-- 💬 Ask me about: C#, Javascript, React, Angular, Node, .Net and Databases (MySQL, MongoDB and Microsoft Server SQL).
+- 💬 Ask me about: C#, Javascript, Angular, Node, .NET, EF Core, AWS Services, MicroServices and Databases (MySQL, MongoDB and Microsoft Server SQL).
 - 📫 My portfolio link <a href="https://techflow21.github.io/sobportfolio/"> 👉 HERE</a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
