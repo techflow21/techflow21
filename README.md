@@ -6,7 +6,7 @@ I am Bello Soliu, a passionate and resourceful Software Engineer.
 - 🌱 I’m currently learning Amazon Web Services(AWS) Services.
 - 👯 I’m willing to collaborate on open source projects
 - 💬 Ask me about: C#, Javascript, Angular, Node, .NET, EF Core, AWS Services, MicroServices and Databases (MySQL, MongoDB and Microsoft Server SQL).
-- 📫 My portfolio link <a href="https://techflow21.github.io/sobportfolio/"> 👉 HERE</a>
+- 📫 My portfolio link <a href="https://bello-webportfolio.netlify.app/"> 👉 HERE</a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
