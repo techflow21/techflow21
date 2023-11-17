@@ -5,7 +5,7 @@ I am Bello Soliu, a passionate and resourceful Software Engineer.
 - 🔭 I’m currently working on Java, Blazor and .NET projects.
 - 🌱 I’m currently learning Amazon Web Services(AWS) Services.
 - 👯 I’m willing to collaborate on open source projects
-- 💬 Ask me about: C#, Javascript, Angular, Node, .NET, EF Core, AWS Services, MicroServices and Databases (MySQL, MongoDB and Microsoft Server SQL).
+- 💬 Ask me about: C#, Angular, .NET, Blazor, Java, Spring Boot, JavaFX, AWS Services, MicroServices and Databases (MySQL, MongoDB and Microsoft Server SQL).
 - 📫 My portfolio link <a href="https://bello-webportfolio.netlify.app/"> 👉 HERE</a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
