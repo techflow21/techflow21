@@ -3,7 +3,7 @@ I am Bello Soliu, a passionate and resourceful Software Engineer.
 
 <h3 align="left">About Me:</h3>
 - 🔭 I’m currently working on Java, Blazor and .NET projects.
-- 🌱 I’m currently learning Amazon Web Services(AWS) Services.
+- 🌱 I’m currently learning AWS,JavaFx and Spring Boot.
 - 👯 I’m willing to collaborate on open source projects
 - 💬 Ask me about: C#, Angular, .NET, Blazor, Java, Spring Boot, JavaFX, AWS Services, MicroServices and Databases (MySQL, MongoDB and Microsoft Server SQL).
 - 📫 My portfolio link <a href="https://bello-webportfolio.netlify.app/"> 👉 HERE</a>
@@ -20,5 +20,3 @@ I am Bello Soliu, a passionate and resourceful Software Engineer.
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-  
