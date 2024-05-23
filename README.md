@@ -2,10 +2,10 @@
 I am Bello Soliu, a passionate and resourceful Software Engineer.
 
 <h3 align="left">About Me:</h3>
-- 🔭 I’m currently working on Java, Blazor and .NET projects.
-- 🌱 I’m currently learning AWS,JavaFx and Spring Boot.
+- 🔭 I’m currently working on .NET, AWS and Angular projects.
+- 🌱 I’m currently learning Azure,Docker and Microservices.
 - 👯 I’m willing to collaborate on open source projects
-- 💬 Ask me about: C#, Angular, .NET, Blazor, Java, Spring Boot, JavaFX, AWS Services, MicroServices and Databases (MySQL, MongoDB and Microsoft Server SQL).
+- 💬 Ask me about: C#, Angular, .NET, Spring Boot, Microservices and Databases (PostgreSQL, MySQL, MongoDB and Microsoft Server SQL).
 - 📫 My portfolio link <a href="https://bello-webportfolio.netlify.app/"> 👉 HERE</a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
