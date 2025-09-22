@@ -2,11 +2,11 @@
 I am Bello Soliu, a passionate and resourceful Software Engineer.
 
 <h3 align="left">About Me:</h3>
-- 🔭 I’m currently working on .NET, Microservices and Angular projects.
-- 🌱 I’m currently learning Docker, CI/CD and Teraform.
-- 👯 I’m willing to collaborate on open source projects
-- 💬 Ask me about: C#, Angular, .NET, Spring Boot, Microservices and Databases (PostgreSQL, MySQL, MongoDB and Microsoft Server SQL).
-- 📫 My portfolio link <a href="https://bello-webportfolio.netlify.app/"> 👉 HERE</a>
+- 🔭 I’m currently working on .NET, Microservices and Angular projects.<br/>
+- 🌱 I’m currently learning Docker, CI/CD and Teraform.<br/>
+- 👯 I’m willing to collaborate on open source projects<br/>
+- 💬 Ask me about: C#, Angular, .NET, Spring Boot, Microservices and Databases (PostgreSQL, MySQL, MongoDB and Microsoft Server SQL).<br/>
+- 📫 My portfolio link <a href="https://bello-webportfolio.netlify.app/"> 👉 HERE</a><br />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
