@@ -2,8 +2,7 @@
 I am Bello Soliu, a passionate and resourceful Software Engineer.
 
 <h3 align="left">About Me:</h3>
-- 🔭 I’m currently working on .NET Microservices, DevOps, AI/ML integration on Web app projects.<br/>
-- 🌱 I’m currently learning CI/CD and DevOps.<br/>
+- 🔭 I’m actively working on .NET Microservices, CI/CD, DevOps, AI/ML integration.<br/>
 - 👯 I’m willing to collaborate on open source projects<br/>
 - 💬 Ask me about: C# -.NET, Java-Spring Boot, Microservices and AI/ML Models.<br/>
 - 📫 My portfolio link <a href="https://bello-webportfolio.netlify.app/"> 👉 HERE</a><br />
