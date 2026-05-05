@@ -24,13 +24,13 @@
 <h2 align="left">🔍 Pull Request Activity</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; margin: 20px 0;">
   
-  <!-- PRs Created (Update this number manually) -->
+  <!-- PRs Created -->
   <div style="background: #161B22; border: 1px solid #30363d; border-radius: 12px; padding: 16px 24px; min-width: 180px; text-align: center;">
-    <img src="https://img.shields.io/badge/PRs_Created-85-38BDF8?style=flat-square&logo=github&logoColor=white&labelColor=161B22" alt="PRs Created"/>
+    <img src="https://img.shields.io/badge/PRs_Created-889-38BDF8?style=flat-square&logo=github&logoColor=white&labelColor=161B22" alt="PRs Created"/>
     <p style="margin: 12px 0 0; color: #c9d1d9; font-weight: 500;">Pull Requests</p>
   </div>
 
-  <!-- PRs Reviewed (STATIC: 337 as requested) -->
+  <!-- PRs Reviewed -->
   <div style="background: #161B22; border: 1px solid #30363d; border-radius: 12px; padding: 16px 24px; min-width: 180px; text-align: center;">
     <img src="https://img.shields.io/badge/PRs_Reviewed-337-8B5CF6?style=flat-square&logo=github&logoColor=white&labelColor=161B22" alt="PRs Reviewed"/>
     <p style="margin: 12px 0 0; color: #c9d1d9; font-weight: 500;">Reviews Completed</p>
@@ -43,70 +43,101 @@
   </div>
 </div>
 
-<!-- Tech Stack - SINGLE ROW HORIZONTAL SCROLL -->
+<!-- Tech Stack - SINGLE ROW HORIZONTAL SCROLL (GitHub-Compatible) -->
 <h2 align="left">🛠️ Languages & Tools</h2>
-<div style="overflow-x: auto; padding: 10px 0; margin: 20px 0; scrollbar-width: thin; scrollbar-color: #38BDF8 #161B22; border: 1px solid #30363d; border-radius: 12px; background: #161B22;">
-  <div style="display: flex; flex-wrap: nowrap; gap: 20px; justify-content: flex-start; min-width: max-content; padding: 15px 20px;">
-    
-    <!-- Backend & Frameworks -->
-    <a href="https://dotnet.microsoft.com/" target="_blank" title=".NET" style="text-decoration: none; flex-shrink: 0;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50" style="transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 4px 8px rgba(56,189,248,0.4))'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"/>
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" title="C#" style="text-decoration: none; flex-shrink: 0;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 4px 8px rgba(56,189,248,0.4))'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"/>
-    </a>
-    <a href="https://spring.io/" target="_blank" title="Spring Boot" style="text-decoration: none; flex-shrink: 0;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="50" height="50" style="transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 4px 8px rgba(56,189,248,0.4))'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" title="Python" style="text-decoration: none; flex-shrink: 0;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 4px 8px rgba(56,189,248,0.4))'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" title="Java" style="text-decoration: none; flex-shrink: 0;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" style="transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 4px 8px rgba(56,189,248,0.4))'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"/>
-    </a>
 
-    <!-- Frontend -->
-    <a href="https://angular.io/" target="_blank" title="Angular" style="text-decoration: none; flex-shrink: 0;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="Angular" width="50" height="50" style="transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 4px 8px rgba(56,189,248,0.4))'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" style="text-decoration: none; flex-shrink: 0;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 4px 8px rgba(56,189,248,0.4))'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript" style="text-decoration: none; flex-shrink: 0;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 4px 8px rgba(56,189,248,0.4))'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"/>
-    </a>
-
-    <!-- Databases -->
-    <a href="https://www.mongodb.com/" target="_blank" title="MongoDB" style="text-decoration: none; flex-shrink: 0;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 4px 8px rgba(56,189,248,0.4))'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" title="MySQL" style="text-decoration: none; flex-shrink: 0;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 4px 8px rgba(56,189,248,0.4))'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL" style="text-decoration: none; flex-shrink: 0;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" style="transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 4px 8px rgba(56,189,248,0.4))'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"/>
-    </a>
-
-    <!-- DevOps & AI/ML -->
-    <a href="https://www.docker.com/" target="_blank" title="Docker" style="text-decoration: none; flex-shrink: 0;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" style="transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 4px 8px rgba(56,189,248,0.4))'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"/>
-    </a>
-    <a href="https://kubernetes.io/" target="_blank" title="Kubernetes" style="text-decoration: none; flex-shrink: 0;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="50" style="transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 4px 8px rgba(56,189,248,0.4))'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"/>
-    </a>
-    <a href="https://opencv.org/" target="_blank" title="OpenCV" style="text-decoration: none; flex-shrink: 0;">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50" style="transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 4px 8px rgba(56,189,248,0.4))'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"/>
-    </a>
-    <a href="https://pytorch.org/" target="_blank" title="PyTorch" style="text-decoration: none; flex-shrink: 0;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch" width="50" height="50" style="transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 4px 8px rgba(56,189,248,0.4))'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"/>
-    </a>
-    <a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow" style="text-decoration: none; flex-shrink: 0;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="50" height="50" style="transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 4px 8px rgba(56,189,248,0.4))'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"/>
-    </a>
-    
-  </div>
+<div align="center">
+  <table cellpadding="10" cellspacing="0" border="0" style="background: #161B22; border: 1px solid #30363d; border-radius: 12px; padding: 15px;">
+    <tr>
+      <!-- Backend & Frameworks -->
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://dotnet.microsoft.com/" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/>
+        </a><br/><small style="color: #8b949e; font-size: 10px;">.NET</small>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://www.w3schools.com/cs/" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+        </a><br/><small style="color: #8b949e; font-size: 10px;">C#</small>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://spring.io/" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="50" height="50"/>
+        </a><br/><small style="color: #8b949e; font-size: 10px;">Spring</small>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://www.python.org" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+        </a><br/><small style="color: #8b949e; font-size: 10px;">Python</small>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://www.java.com" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
+        </a><br/><small style="color: #8b949e; font-size: 10px;">Java</small>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://angular.io/" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original-wordmark.svg" alt="Angular" width="50" height="50"/>
+        </a><br/><small style="color: #8b949e; font-size: 10px;">Angular</small>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+        </a><br/><small style="color: #8b949e; font-size: 10px;">JS</small>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+        </a><br/><small style="color: #8b949e; font-size: 10px;">TS</small>
+      </td>
+    </tr>
+    <tr>
+      <!-- Databases -->
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+        </a><br/><small style="color: #8b949e; font-size: 10px;">MongoDB</small>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+        </a><br/><small style="color: #8b949e; font-size: 10px;">MySQL</small>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+        </a><br/><small style="color: #8b949e; font-size: 10px;">PostgreSQL</small>
+      </td>
+      <!-- DevOps & AI/ML -->
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+        </a><br/><small style="color: #8b949e; font-size: 10px;">Docker</small>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://kubernetes.io/" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="50"/>
+        </a><br/><small style="color: #8b949e; font-size: 10px;">K8s</small>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://opencv.org/" target="_blank" style="text-decoration: none;">
+          <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/>
+        </a><br/><small style="color: #8b949e; font-size: 10px;">OpenCV</small>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://pytorch.org/" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch" width="50" height="50"/>
+        </a><br/><small style="color: #8b949e; font-size: 10px;">PyTorch</small>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://www.tensorflow.org/" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="50" height="50"/>
+        </a><br/><small style="color: #8b949e; font-size: 10px;">TF</small>
+      </td>
+    </tr>
+  </table>
 </div>
-<p align="center" style="color: #8b949e; font-size: 0.9em; margin-top: -10px;">← Scroll horizontally to see more tools →</p>
+<p align="center" style="color: #8b949e; font-size: 0.85em;">🔄 Scroll horizontally on mobile to see all tools</p>
 
 <!-- Additional Badges -->
 <h2 align="left">🏆 Achievements & Badges</h2>
