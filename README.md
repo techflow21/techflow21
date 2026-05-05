@@ -1,9 +1,6 @@
-<h3>Hi there 👋!</h3>
-I am Bello Soliu, a passionate and resourceful Software Engineer.
-
 <!-- Header with Animated Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Bello+%F0%9F%91%8B;.NET+%7C+DevOps+%7C+AI%2FML+Engineer;Building+Scalable+Microservices;Open+to+Collaboration+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Bello+%F0%9F%91%8B;.NET Engineer+%7C+AI%2FML+Engineer;Building+Scalable+Microservices;Open+to+Collaboration+%E2%9C%A8" alt="Typing SVG" />
   
   <!-- Optional: Add your profile picture -->
   <!-- <img src="your-profile-pic.jpg" alt="Profile Picture" width="150" style="border-radius: 50%; margin: 10px 0;"/> -->
@@ -14,16 +11,16 @@ I am Bello Soliu, a passionate and resourceful Software Engineer.
 
 | 🔭 Currently Working On | 👯 Collaborating On | 💬 Ask Me About | 📫 Reach Me |
 |-------------------------|---------------------|-----------------|-------------|
-| • .NET Microservices<br>• CI/CD Pipelines<br>• DevOps Automation<br>• AI/ML Integration | • Open Source Projects<br>• Community-Driven Tools<br>• Tech Mentorship | • C# & .NET Ecosystem<br>• Java Spring Boot<br>• Microservices Architecture<br>• AI/ML Model Deployment | [🌐 Portfolio](https://bello-webportfolio.netlify.app/) <br> [📧 Email](mailto:your-email@example.com) <br> [💬 LinkedIn](https://linkedin.com/in/yourprofile) |
+| • .NET Microservices<br>• CI/CD Pipelines<br>• DevOps Automation<br>• AI/ML Integration | • Open Source Projects<br>• Community-Driven Tools<br>• Tech Mentorship | • C# & .NET Ecosystem<br>• Java Spring Boot<br>• Microservices Architecture<br>• AI/ML Model Deployment | [🌐 Portfolio](https://bello-webportfolio.netlify.app/) <br> [📧 Email](mailto:bellosoliu12@gmail.com) <br> [💬 LinkedIn](https://linkedin.com/in/sobtech) |
 
 <!-- GitHub Stats & Metrics -->
 <h2 align="left">📊 GitHub Metrics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&title_color=38BDF8&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=techflow21&show_icons=true&theme=radical&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techflow21&layout=compact&theme=radical&hide_border=true&title_color=38BDF8&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" width="49%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=38BDF8" alt="Commit Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techflow21&theme=radical&hide_border=true&background=0D1117&stroke=38BDF8" alt="Commit Streak" width="100%" />
 </div>
 
 <!-- Tech Stack - Responsive Horizontal Layout -->
@@ -101,7 +98,7 @@ I am Bello Soliu, a passionate and resourceful Software Engineer.
 <!-- Footer -->
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=techflow21&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views"/>
   <br/><br/>
   <em>"Code is like humor. When you have to explain it, it's bad." — Cory House</em>
 </div>
