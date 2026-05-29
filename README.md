@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Bello+%F0%9F%91%8B;+-.NET+Engineer+%7C+AI%2FML+Engineer;Building+Microservices+and+SaaS;Open+to+Collaboration+%E2%9C%A8" alt="Typing SVG" />
 </div>
+
 <!-- About Me Section -->
 <h2 align="left">🚀 About Me</h2>
 
@@ -136,6 +137,7 @@
     </tr>
   </table>
 </div>
+
 <p align="center" style="color: #8b949e; font-size: 0.85em;">🔄 Scroll horizontally on mobile to see all tools</p>
 
 <!-- Additional Badges -->
