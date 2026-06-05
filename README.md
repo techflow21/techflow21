@@ -27,6 +27,7 @@
   
   <!-- PRs Created -->
   <div style="background: #161B22; border: 1px solid #30363d; border-radius: 12px; padding: 16px 24px; min-width: 180px; text-align: center;">
+    
     <img src="https://img.shields.io/badge/PRs_Created-889-38BDF8?style=flat-square&logo=github&logoColor=white&labelColor=161B22" alt="PRs Created"/>
     <p style="margin: 12px 0 0; color: #c9d1d9; font-weight: 500;">Pull Requests</p>
   </div>
