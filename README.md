@@ -36,7 +36,7 @@
 
   <!-- PRs Reviewed -->
   <div style="background: #161B22; border: 1px solid #30363d; border-radius: 12px; padding: 16px 24px; min-width: 180px; text-align: center;">
-    <img src="https://img.shields.io/badge/PRs_Reviewed-337-8B5CF6?style=flat-square&logo=github&logoColor=white&labelColor=161B22" alt="PRs Reviewed"/>
+    <img src="https://img.shields.io/badge/PRs_Reviewed-537-8B5CF6?style=flat-square&logo=github&logoColor=white&labelColor=161B22" alt="PRs Reviewed"/>
     <p style="margin: 12px 0 0; color: #c9d1d9; font-weight: 500;">Reviews Completed</p>
   </div>
 
