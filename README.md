@@ -15,10 +15,7 @@
 
 <!-- GitHub Stats & Metrics -->
 <h2 align="left">📊 GitHub Metrics</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techflow21&show_icons=true&theme=radical&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techflow21&layout=compact&theme=radical&hide_border=true&title_color=38BDF8&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" width="49%" />
-</div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techflow21&theme=radical&hide_border=true&background=0D1117&stroke=38BDF8" alt="Commit Streak" width="100%" />
 </div>
