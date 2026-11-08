@@ -11,7 +11,7 @@
 
 | 🔭 Currently Working On | 👯 Collaborating On | 💬 Ask Me About | 📫 Reach Me |
 |-------------------------|---------------------|-----------------|-------------|
-| • .NET Microservices/SaaS<br>• CI/CD Pipelines<br>• Azure DevOps<br>• AI/ML Integration | • Open Source Projects<br>• Community-Driven Tools<br>• Tech Mentorship | • C# & .NET Ecosystem<br>• Java Spring Boot<br>• Microservices Architecture<br>• AI/ML Model Development | [🌐 Portfolio](https://bello-webportfolio.netlify.app/) <br> [📧 Email](mailto:bellosoliu12@gmail.com) <br> [💬 LinkedIn](https://linkedin.com/in/sobtech) |
+| • .NET Microservices/SaaS<br>• CI/CD Pipelines<br>• Azure DevOps<br>• AI/ML Integration | • Open Source Projects<br>• Community-Driven Tools<br>• Tech Mentorship | • C# & .NET Ecosystem<br>• Java Spring Boot<br>• Microservices Architecture<br>• AI/ML Model Development | [🌐 Portfolio](https://portfolio.zyrextech.com/) <br> [📧 Email](mailto:bellosoliu12@gmail.com) <br> [💬 LinkedIn](https://linkedin.com/in/sobtech) |
 
 <!-- GitHub Stats & Metrics -->
 <h2 align="left">📊 GitHub Metrics</h2>
